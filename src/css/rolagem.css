@@ -1,6 +1,6 @@
 * {
   scrollbar-width: auto;
-  scrollbar-color: #ffca68 #414141;
+  scrollbar-color: #ffca68 #262626be;
 }
 
 *::-webkit-scrollbar {
@@ -8,13 +8,13 @@
 }
 
 *::-webkit-scrollbar-track {
-  background: #414141;
+  background: #26262600;
   border-radius: 10px;
 }
 
 *::-webkit-scrollbar-thumb {
-  background-color: #ffca68;
+  background-color: #ffca68d7;
   border-radius: 10px;
-  border: 3px solid #414141;
+  border: 3px solid #262626be;
   border-radius: 10px;
 }
